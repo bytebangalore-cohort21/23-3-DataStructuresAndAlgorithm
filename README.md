@@ -8,7 +8,7 @@
 * Try reading and understanding about other sorting methods like **Heap Sort**,  **Tim Sort**.
 * Try and understand the BigO complexity for each of the searching algorithm discussed.
 
-### Assignmnet for Data Stuctures Class
+### Assignment for Data Stuctures Class
 *(Evening Session)*
 
 * Implement Stack and Queue in Python
