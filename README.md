@@ -14,3 +14,4 @@
 * Implement Stack and Queue in Python
 * Read about LinkedList, Deque, Heaps and Graphs
 * Complete reading the sections regarding Stack and Queue in Grokking Algorithm Book.
+* Industry Usecases of Hashtables.
